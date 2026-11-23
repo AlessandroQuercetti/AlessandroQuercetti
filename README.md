@@ -13,6 +13,8 @@ I enjoy building interactive applications and exploring how technology can impro
 - **[PAWM Frontend](https://github.com/AlessandroQuercetti/Progetto_PAWM_front_end)** – A frontend development project.
 - **[Research Methodologies](https://github.com/AlessandroQuercetti/Research-Methodologies-RU-Project)** – An academic research project developed in collaboration with Reykjavik University.
 
+I have also made a basketball VR video game, but the source code is not available anymore, but you can find the registration that I recorded for the University in my youtube channel: https://youtube.com/@alessandroquercetti8306?si=aliJp0xrOhtlT0EV
+
 ## Technologies & Interests 🛠️
 
 **Areas of Interest**
